@@ -4,9 +4,7 @@
 Mi pasión por la tecnología me impulsa a crear soluciones web limpias y eficientes.
 
 Aunque mi viaje en el desarrollo recién comienza, estoy ansioso por aprender y sumergirme en proyectos desafiantes.
-
 Me considero un colaborador versátil, con experiencia en tecnologías como HTML, CSS, JavaScript, MySQL, Python y más.
-
 Si buscas a alguien con una mente abierta, entusiasmo por la programación y ganas de trabajar en equipo, ¡hablemos!
 
 Juntos podemos construir un futuro tecnológico más brillante. ✨
@@ -14,9 +12,13 @@ Juntos podemos construir un futuro tecnológico más brillante. ✨
 Aquí te dejo algunos datos sobre mí:
 
 Tecnologías: HTML, CSS, JavaScript, MySQL, Python
+
 Ubicación: Buenos Aires, Argentina
+
 Enfoque: Código limpio, soluciones eficientes, aprendizaje continuo
+
 Pasiones: Desarrollo web, nuevas tecnologías, trabajar en equipo
+
 
 ¡Estoy emocionado de conectar contigo!🚀
 
