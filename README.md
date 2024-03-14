@@ -1,5 +1,24 @@
 # 💫 About Me:
-¡Hola! Soy un apasionado programador Full Stack, con base en Buenos Aires, Argentina. Aunque mi viaje en el mundo de la tecnología recién esta comenzando, estoy decidido a destacarme en el hambito del Desarrollo. Mi deseo de aprender es sólido, y estoy listo para sumergirme en proyectos desafiantes y contribuir con mis habilidades en el desarrollo web y más allá.<br><br>Mi enfoque es simple: código limpio, soluciones eficientes y un compromiso inquebrantable con la excelencia. Me impulsa la búsqueda constante de conocimiento y la voluntad de superar cualquier obstáculo. A través de mi perfil en GitHub, espero conectar con mentes afines y participar en emocionantes proyectos que me permitan crecer y destacarme en la comunidad.<br><br>Soy versátil en tecnologías como HTML, CSS, JavaScript,  MySQL, Python, etc., y estoy ansioso por expandir mis habilidades. Si estás buscando un colaborador apasionado con una mentalidad Full Stack y un fervor inquebrantable por la programación, ¡has llegado al lugar correcto!<br><br>¡Vamos más allá del código y construyamos juntos el futuro tecnológico! 🚀
+
+¡Hola! Soy un programador Full Stack con sede en Buenos Aires, Argentina.
+Mi pasión por la tecnología me impulsa a crear soluciones web limpias y eficientes.
+
+Aunque mi viaje en el desarrollo recién comienza, estoy ansioso por aprender y sumergirme en proyectos desafiantes.
+
+Me considero un colaborador versátil, con experiencia en tecnologías como HTML, CSS, JavaScript, MySQL, Python y más.
+
+Si buscas a alguien con una mente abierta, entusiasmo por la programación y ganas de trabajar en equipo, ¡hablemos!
+
+Juntos podemos construir un futuro tecnológico más brillante. ✨
+
+Aquí te dejo algunos datos sobre mí:
+
+Tecnologías: HTML, CSS, JavaScript, MySQL, Python
+Ubicación: Buenos Aires, Argentina
+Enfoque: Código limpio, soluciones eficientes, aprendizaje continuo
+Pasiones: Desarrollo web, nuevas tecnologías, trabajar en equipo
+
+¡Estoy emocionado de conectar contigo!🚀
 
 
 ## 🌐 Socials:
