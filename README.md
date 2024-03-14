@@ -10,15 +10,10 @@ Si buscas a alguien con una mente abierta, entusiasmo por la programación y gan
 Juntos podemos construir un futuro tecnológico más brillante. ✨
 
 Aquí te dejo algunos datos sobre mí:
-
 Tecnologías: HTML, CSS, JavaScript, MySQL, Python
-
 Ubicación: Buenos Aires, Argentina
-
 Enfoque: Código limpio, soluciones eficientes, aprendizaje continuo
-
 Pasiones: Desarrollo web, nuevas tecnologías, trabajar en equipo
-
 
 ¡Estoy emocionado de conectar contigo!🚀
 
