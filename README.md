@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-¡Hola! Soy un programador Full Stack con sede en Buenos Aires, Argentina.
+¡Hola! Soy Desarrolador Full Stack Developer de Buenos Aires, Argentina.
 Mi pasión por la tecnología me impulsa a crear soluciones web limpias y eficientes.
 
 Aunque mi viaje en el desarrollo recién comienza, estoy ansioso por aprender y sumergirme en proyectos desafiantes.
@@ -12,7 +12,7 @@ Aquí te dejo algunos datos sobre mí:
 
 Tecnologías: HTML, CSS, JavaScript, MySQL, Python // Ubicación: Buenos Aires, Argentina // Enfoque: Código limpio, soluciones eficientes, aprendizaje continuo // Pasiones: Desarrollo web, nuevas tecnologías, trabajar en equipo
 
-¡Estoy emocionado de conectar contigo!🚀
+¡Estoy emocionado de conectarme con personas con el mismo entusiasmo que yo!🚀
 Juntos podemos construir un futuro tecnológico más brillante. ✨
 
 
