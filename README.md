@@ -11,7 +11,7 @@ con la esperanza de que pronto pueda desarrollar Automatizacion en dicho sector.
 
 Aquí te dejo algunos datos sobre mí:
 
-Tecnologías: HTML, CSS, JavaScript, MySQL, Python // Ubicación: Buenos Aires, Argentina // Enfoque: Código limpio, soluciones eficientes, aprendizaje continuo // Pasiones: Desarrollo web, nuevas tecnologías, testing de aplicaciones y wew, trabajo en equipo y especialidades en habilidades blandas.
+Tecnologías: HTML, CSS, JavaScript, MySQL, Python // Ubicación: Buenos Aires, Argentina // Enfoque: Código limpio, soluciones eficientes, aprendizaje continuo // Pasiones: Desarrollo web, nuevas tecnologías, testing de aplicaciones y web, trabajo en equipo y especialidades en habilidades blandas.
 
 ¡Estoy emocionado de conectarme con personas con el mismo entusiasmo que yo!🚀
 Juntos podemos construir un futuro tecnológico más brillante. ✨
